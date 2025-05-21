@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Display from "./components/Display";
 import ButtonGrid from "./components/ButtonGrid";
-import "./Calculator.css";
+import "./calculator.css";
 
 const Calculator = () => {
   const [input, setInput] = useState("");

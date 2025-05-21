@@ -1,5 +1,5 @@
 
-import "../Calculator.css";
+import "../calculator.css";
 
 const Display = ({ input }) => (
   <div className="display">

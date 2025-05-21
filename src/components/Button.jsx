@@ -1,5 +1,5 @@
 
-import "../Calculator.css";
+import "../calculator.css";
 
 const Button = ({ value, onClick, isZero, className }) => {
   return (

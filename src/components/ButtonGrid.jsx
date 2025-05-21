@@ -1,6 +1,6 @@
 
 import Button from "./Button";
-import "../Calculator.css";
+import "../calculator.css";
 
 const ButtonGrid = ({ onClick }) => {
   const buttons = [
